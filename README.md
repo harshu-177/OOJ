@@ -4,20 +4,20 @@ OOJ Lab Programs:
 ax 2 +bx+c = 0. Read in a, b, c and use the quadratic formula. If the discriminate b 2 -4ac
 is negative, display a message stating that there are no real solutions.
 
-File Name : quadratic.java
+    File Name : quadratic.java
 
 2. Develop a Java program to create a class Student with members usn, name, an array
 credits and an array marks. Include methods to accept and display details and a
 method to calculate SGPA of a student.
 
-File Name : student.java
+    File Name : student.java
 
 3. Create a class Book which contains four members: name, author, price, num_pages.
 Include a constructor to set the values for the members. Include methods to set and
 get the details of the objects. Include a toString( ) method that could display the
 complete details of the book. Develop a Java program to create n book objects.
 
-File Name : book.java
+    File Name : book.java
 
 4. Develop a Java program to create an abstract class named Shape that contains two
 integers and an empty method named printArea( ). Provide three classes named
@@ -25,7 +25,7 @@ Rectangle, Triangle and Circle such that each one of the classes extends the cla
 Shape. Each one of the classes contain only the method printArea( ) that prints the
 area of the given shape.
 
-File Name : shape.java
+    File Name : shape.java
 
 5. Develop a Java program to create a class Bank that maintains two kinds of account
 for its customers, one called savings account and the other current account. The
@@ -43,4 +43,4 @@ c) Compute and deposit interest
 d) Permit withdrawal and update the balance
 Check for the minimum balance, impose penalty if necessary and update the balance.
 
-File Name : Bank.java
+    File Name : Bank.java
