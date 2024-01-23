@@ -1,7 +1,7 @@
 # ***OOJ Lab Programs:***
 
 1. Develop a Java program that prints all real solutions to the quadratic equation
-ax<sup>2</sup> +bx+c = 0. Read in a, b, c and use the quadratic formula. If the discriminate b 2 -4ac
+ax<sup>2</sup> +bx+c = 0. Read in a, b, c and use the quadratic formula. If the discriminate b<sup>2</sup> - 4ac
 is negative, display a message stating that there are no real solutions.
 
     File Name : [Quadratic Equation](https://github.com/harshu-177/OOJ/blob/main/Code/Quadratic.java)
