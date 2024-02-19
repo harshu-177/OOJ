@@ -58,7 +58,7 @@ marks of n students in all five courses.
 7. Write a program that demonstrates handling of exceptions in inheritance tree.
 Create a base class called “Father” and derived class called “Son” which extends the
 base class. In Father class, implement a constructor which takes the age and throws
-the exception WrongAge( ) when the input age=&lt;0. In Son class, implement a
+the exception WrongAge( ) when the input age&lt;=0. In Son class, implement a
 constructor that cases both father and son’s age and throws an exception if son’s age
 is &gt;=father’s age.
 
