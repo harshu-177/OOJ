@@ -35,11 +35,11 @@ Check for the minimum balance, impose penalty if necessary and update the balanc
 
 8. Write a program that demonstrates handling of exceptions in inheritance tree. Create a base class called “Father” and derived class called “Son” which extends the base class. In Father class, implement a constructor which takes the age and throws the exception WrongAge( ) when the input age&lt;=0. In Son class, implement a constructor that cases both father and son’s age and throws an exception if son’s age is &gt;=father’s age.
 
-    File Location : [Exception Handling](https://github.com/harshu-177/OOJ/blob/main/Codes/EMain.java)
+    File Location : [Exception Handling](https://github.com/harshu-177/OOJ/blob/main/Codes/Excep.java)
 
 9. Write a program which creates two threads, one thread displaying “BMS College of Engineering” once every ten seconds and another displaying “CSE” once every two seconds.
 
-    File Location: [Multi-Threading](https://github.com/harshu-177/OOJ/blob/main/Codes/ThreadDemo.java)
+    File Location: [Multi-Threading](https://github.com/harshu-177/OOJ/blob/main/Codes/MultiThreads.java)
 
 
 # THANK YOU
